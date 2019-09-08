@@ -1,12 +1,16 @@
 ---
-title: Post with Header Image
-tags: TeXt
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+layout: article 
+title: Working with Github Pages
+tags: web-development, web-publishing, git, dns
+aside:
+  toc: true
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+At the time of writing this article, this page is hosted on GitHub Pages after previously been hosted on an Azure Storage Account.  GitHub Pages allows you to host a static web site straight from your github repository.
+
+# Getting Started with GitHub Pages
+
+* [GitHub Pages Basics](https://help.github.com/en#github-pages-basics)
+* 
 
 <!--more-->
