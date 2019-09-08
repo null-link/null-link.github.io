@@ -4,6 +4,9 @@ title: Working with Github Pages
 tags: web-development web-publishing git dns
 aside:
   toc: true
+license: false
+show_subscribe: false
+show_author_profile: true
 ---
 
 At the time of writing this article, this page is hosted on GitHub Pages after previously been hosted on an Azure Storage Account.  GitHub Pages allows you to host a static web site straight from your github repository.
