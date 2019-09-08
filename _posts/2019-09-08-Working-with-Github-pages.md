@@ -1,7 +1,7 @@
 ---
 layout: article 
 title: Working with Github Pages
-tags: web-development, web-publishing, git, dns
+tags: web-development web-publishing git dns
 aside:
   toc: true
 ---

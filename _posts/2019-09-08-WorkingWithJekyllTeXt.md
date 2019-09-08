@@ -1,7 +1,7 @@
 ---
 layout: article 
 title: Using Jekyll with TeXt Theme
-tags: TeXt, Jekyll, web-publishing, web-development
+tags: TeXt Jekyll web-publishing web-development
 aside:
   toc: true
 ---
