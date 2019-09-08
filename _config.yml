@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://nullbytes.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : null-link
+title   : nullbytes
 description: > # this means to ignore newlines until "Language & timezone"
-  null-link's notes and code snippets
+  null-link's bits and bytes
 
 
 ## => Language and Timezone
@@ -35,11 +35,11 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Tim Brush
+  name      : Tim
   url       : https://nullbytes.io
   avatar    : https://avatars2.githubusercontent.com/u/3821222?s=400&u=a0df065412c012baf27cbef36d52ac72305d10cd&v=4 # path or url of avatar image (square)
   bio       : Developer. Cybersecurity Engineer.
-  email     : tlbrush at the goog's mail
+  email     : 
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
