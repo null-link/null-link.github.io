@@ -9,6 +9,4 @@ titles:
 key: page-about
 ---
 
-## About null-link
-
 Another software engineer.
