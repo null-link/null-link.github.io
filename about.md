@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en      : &EN       About
+  en      : &EN       About Null-Link
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
