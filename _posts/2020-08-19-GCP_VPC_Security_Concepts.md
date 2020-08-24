@@ -37,5 +37,5 @@ Access Control Manager (ACM) is used to define access context that is applied to
 
 ## Other References
 
-* [ScaleSec artile on Protecting GCP Services with VPC Service Controls and Terraform](https://blog.scalesec.com/protecting-gcp-services-with-vpc-service-controls-and-terraform-858019d8b4ff)
+* [ScaleSec article on Protecting GCP Services with VPC Service Controls and Terraform](https://blog.scalesec.com/protecting-gcp-services-with-vpc-service-controls-and-terraform-858019d8b4ff)
 * [BeyondCorp Approach to Perimeter Security](https://www.beyondcorp.com/)
