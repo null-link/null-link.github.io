@@ -38,7 +38,7 @@ author:
   name      : Tim
   url       : https://nullbytes.io
   avatar    : https://avatars2.githubusercontent.com/u/3821222?s=400&u=a0df065412c012baf27cbef36d52ac72305d10cd&v=4 # path or url of avatar image (square)
-  bio       : Another software engineer.
+  bio       : An indie developer and security engineer with a focus on keeping things simple so you can focus on what matters.
   email     : 
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -64,7 +64,8 @@ repository_tree: master
 paths:
   root    : / # title link url, "/" (default)
   home    : / # home layout url, "/" (default)
-  archive : /archive.html # "/archive.html" (default)
+  # archive : /archive.html # "/archive.html" (default)
+  apps    : /apps.html # "/apps.html" (default)
   rss     : # "/feed.xml" (default)
 
 
@@ -72,9 +73,6 @@ paths:
 ##############################
 ## excerpt
 excerpt_separator: <!--more-->
-
-## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
